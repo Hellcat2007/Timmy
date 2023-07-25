@@ -1,5 +1,5 @@
 # Rawon
-
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/sdef.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 > A simple powerful Discord music bot built to fulfill your production desires. Easy to use, with no coding required.
 
 <a href="https://discord.com/oauth2/authorize?client_id=999162626036740138&permissions=53857345&scope=bot"><img src="https://img.shields.io/static/v1?label=Invite%20Me&message=Rawon%232575&plastic&color=5865F2&logo=discord"></a>
